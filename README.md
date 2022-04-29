@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Atualmente trabalho como fullstack Javascript(NodeJS + React).
+- 🔭 Atualmente trabalho desenvolvedor de Bots de Voz e Dados utilizando linguágem LUA.
 - 🌱 Estudando Typescript.
 - 📫 Contate-me no e-mail: kleuber.18@hotmail.com
 - 😄 Pronouns: ele/dele.
