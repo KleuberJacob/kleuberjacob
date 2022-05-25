@@ -24,10 +24,11 @@
 
   ##
   
-  <div>   
-    <a href = "mailto:jacobkleuber@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"          target="_blank"></a>
-    <a href="https://www.linkedin.com/in/kleuber-jacob-b0b00287/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></img></a>
+  <div>       
+    <a href="https://www.linkedin.com/in/kleuber-jacob-b0b00287/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a> 
+ 
  
   ![Snake animation](https://github.com/kleuberjacob/kleuberjacob/blob/output/github-contribution-grid-snake.svg)
  
