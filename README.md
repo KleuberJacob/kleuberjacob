@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Atualmente trabalho desenvolvedor de Bots de Voz e Dados utilizando linguágem LUA.
-- 🌱 Estudando Typescript.
+- 🔭 Atualmente atuando como desenvolvedor de URA´s utilizando linguagem LUA.
+- 🌱 Sempre adquirindo novos conhecimentos e colocando-os em práticas através de projetos de estudo disponibilizados em meu GitHub.
 - 📫 Contate-me no e-mail: kleuber.18@hotmail.com
 - 😄 Pronouns: ele/dele.
 
