@@ -2,9 +2,9 @@
 
 
 
-- 🔭 Atualmente atuando como desenvolvedor JAVA na Empresa Drogaria Araujo.
-- 🌱 Sempre adquirindo novos conhecimentos e colocando-os em práticas através de projetos de estudo disponibilizados em meu GitHub.
-- 📫 Contate-me no e-mail: kleuber.18@hotmail.com
+- 🔭 Atualmente atuando como desenvolvedor JAVA.
+- 🌱 Sempre adquirindo novos conhecimentos e colocando-os em prática, através de projetos profissionais e de estudo sendo alguns deles disponibilizados em meu GitHub.
+- 📫 Contate-me no Whatsapp: 31 9 9693-0005 ou através do E-mail: kleuber.18@hotmail.com
 - 😄 Pronouns: ele/dele.
 
 <div align="center">
