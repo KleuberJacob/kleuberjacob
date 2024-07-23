@@ -4,7 +4,7 @@
 
 - 🔭 Desenvolvedor JAVA FullStack.
 - 🌱 Sempre adquirindo novos conhecimentos e colocando-os em prática, através de projetos profissionais e de estudo sendo alguns deles disponibilizados em meu GitHub.
-- 📫 Contate-me no Whatsapp: 31 9 9693-0005 ou através do E-mail: kleuber.18@hotmail.com
+- 📫 Contate-me através do Whatsapp: 31 9 9693-0005 ou E-mail: kleuber.18@hotmail.com
 - 😄 Pronouns: ele/dele.
 
 <div align="center">
@@ -20,7 +20,6 @@
   <img align="center" alt="Kleuber-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="Kleuber-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Kleuber-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Kleuber-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg">
 </div>
 
   ##
