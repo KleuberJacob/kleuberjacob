@@ -15,11 +15,18 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kleuber-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="center" alt="Kleuber-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+  <img align="center" alt="Kleuber-Typescript" height="30" width="40" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor"/>
+  <img align="center" alt="Kleuber-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kleuber-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kleuber-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Kleuber-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+  <img align="center" alt="Kleuber-Angular" height="30" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor"/>
   <img align="center" alt="Kleuber-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Kleuber-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Kleuber-Git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"/>
+  <img align="center" alt="Kleuber-Bitbucket" height="30" width="40" src="https://icongr.am/devicon/bitbucket-original.svg?size=128&color=currentColor"/>  
+  <img align="center" alt="Kleuber-MySql" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor"/>
+  <img align="center" alt="Kleuber-PostgresSQL" height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor"/>
+  <img align="center" alt="Kleuber-Redis" height="30" width="40" src="https://icongr.am/devicon/redis-original.svg?size=128&color=currentColor"/>  
 </div>
 
   ##
